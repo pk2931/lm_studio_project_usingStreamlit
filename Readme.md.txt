@@ -22,3 +22,12 @@ lm_studio_project_usingStreamlit
 │   └── Best            # Testing receipts
 │
 └── Readme.md           # Documentation for the project.
+
+Steps to Run the App
+1. Clone the Repository
+
+'''
+bash
+git clone https://github.com/yourusername/lm_studio_project_usingStreamlit.git
+cd lm_studio_project_usingStreamlit
+'''
