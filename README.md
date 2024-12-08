@@ -10,6 +10,7 @@ A streamlined application for managing restaurant bills and analyzing spending p
 
 ---
 
+```
 ## Folder Structure
 lm_studio_project_usingStreamlit
 │
@@ -22,6 +23,7 @@ lm_studio_project_usingStreamlit
 │   └── Best            # Testing receipts
 │
 └── Readme.md           # Documentation for the project.
+```
 
 ## Steps to Run the App
 ### 1. Clone the Repository
